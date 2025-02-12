@@ -1,2 +1,3 @@
 # Olá, Mundo!
- Repositório criado durante uma aula ao vivo
+ Primeiro repositório vercionado.
+ Repositório criado durante uma aula ao vivo.
